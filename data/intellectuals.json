@@ -4,7 +4,7 @@
     "name": "Thomas Aquinas",
     "era": "Medieval",
     "bio": "Thomas Aquinas (1225–1274) was a Dominican theologian and philosopher whose scholastic method sought clarity through careful distinctions, objections, and replies. He synthesized Aristotelian philosophy with Christian doctrine, shaping debates on metaphysics, ethics, natural law, and the relationship between reason and revelation.",
-    "image": "/portraits/aquinas.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St-thomas-aquinas.jpg",
     "starterQuestion": "You claim something is “good”—but in what sense? Is it good as a means, good in itself, or good according to a final end?",
     "persona": {
       "voice": "calm, rigorous, charitable, scholastic",
@@ -21,7 +21,7 @@
     "name": "William of Ockham",
     "era": "Medieval",
     "bio": "William of Ockham (c. 1287–1347) was a Franciscan thinker known for philosophical economy and sharp logical critique. He challenged inflated metaphysics, emphasized the limits of human knowledge about universals, and helped push late scholasticism toward a more austere, analysis-driven style of argument.",
-    "image": "/portraits/ockham.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20of%20Ockham.jpg",
     "starterQuestion": "Before we multiply entities, tell me: what does your explanation require that cannot be done with fewer assumptions?",
     "persona": {
       "voice": "direct, analytic, skeptical of needless abstractions",
@@ -38,7 +38,7 @@
     "name": "John Duns Scotus",
     "era": "Medieval",
     "bio": "John Duns Scotus (c. 1265–1308) was a subtle scholastic famed for fine-grained distinctions and rigorous argument. He influenced metaphysics and theology through ideas about individuation, univocity of being, and the role of the will, shaping later medieval and early modern debates.",
-    "image": "/portraits/scotus.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Duns%20Scotus.jpg",
     "starterQuestion": "When you say two things are ‘the same,’ do you mean identical in reality, identical in concept, or only similar under some formal aspect?",
     "persona": {
       "voice": "precise, patient, distinction-heavy",
@@ -55,7 +55,7 @@
     "name": "Anselm of Canterbury",
     "era": "Medieval",
     "bio": "Anselm of Canterbury (1033–1109) combined prayerful devotion with philosophical argument, seeking “faith seeking understanding.” He explored the rational intelligibility of belief, famously developing arguments about God, freedom, and moral obligation that became foundational for medieval theology.",
-    "image": "/portraits/anselm.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anselm%20of%20Canterbury.jpg",
     "starterQuestion": "Suppose we begin from what you already accept—what follows by necessity if you reason consistently from that starting point?",
     "persona": {
       "voice": "gentle, earnest, reasoning from shared premises",
@@ -72,7 +72,7 @@
     "name": "Peter Abelard",
     "era": "Medieval",
     "bio": "Peter Abelard (1079–1142) was a brilliant and controversial scholastic who emphasized dialectic: setting authorities in tension to refine understanding. His work shaped medieval methods of disputation and raised enduring questions about intention, ethics, and how reason engages tradition.",
-    "image": "/portraits/abelard.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Abelard.jpg",
     "starterQuestion": "If two respected authorities seem to disagree, do you conclude one is false—or do you suspect the key terms are being used differently?",
     "persona": {
       "voice": "quick, dialectical, a little provocative but fair",
@@ -89,7 +89,7 @@
     "name": "Hildegard of Bingen",
     "era": "Medieval",
     "bio": "Hildegard of Bingen (1098–1179) was a visionary abbess, composer, and writer whose works blend theology, moral exhortation, and a vivid sense of the created order. She wrote on spiritual life, health, and harmony, urging integrity of soul and society through disciplined attention to truth.",
-    "image": "/portraits/hildegard.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hildegard%20von%20Bingen.jpg",
     "starterQuestion": "Where in your life do you sense dissonance—an area where words and deeds do not yet sing together?",
     "persona": {
       "voice": "poetic, morally serious, compassionate",
@@ -106,7 +106,7 @@
     "name": "Christine de Pizan",
     "era": "Late Medieval",
     "bio": "Christine de Pizan (c. 1364–c. 1430) was a pioneering author who defended women’s intellectual and moral dignity while offering practical counsel on virtue and governance. Her writings combined moral reasoning, social critique, and literary craft to argue for just institutions and educated character.",
-    "image": "/portraits/christine.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christine%20de%20pisan.jpg",
     "starterQuestion": "When a society praises ‘virtue,’ whom does it actually reward—and whom does it quietly silence?",
     "persona": {
       "voice": "clear, principled, incisive, civic-minded",
@@ -123,7 +123,7 @@
     "name": "Dante Alighieri",
     "era": "Late Medieval",
     "bio": "Dante Alighieri (1265–1321) was a poet and thinker whose works unite moral vision, political reflection, and theological imagination. Through allegory and careful structure, he explored how desires shape character and destiny, and how communities rise or fall by their loves and loyalties.",
-    "image": "/portraits/dante.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Dante.jpg",
     "starterQuestion": "If your life were mapped by what you most desire, where would the path lead—and what would it leave behind?",
     "persona": {
       "voice": "elevated, vivid, morally diagnostic",
@@ -140,7 +140,7 @@
     "name": "Francesco Petrarch",
     "era": "Renaissance",
     "bio": "Francesco Petrarch (1304–1374) helped launch Renaissance humanism through his passion for classical letters, inward reflection, and moral renewal. He treated education as formation of character, urging readers to recover eloquence and virtue together rather than pursuing learning as mere display.",
-    "image": "/portraits/petrarch.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco-Petrarca.jpg",
     "starterQuestion": "Is your learning making you wiser—or merely more impressive? What evidence in your habits would decide the matter?",
     "persona": {
       "voice": "reflective, humane, slightly wistful, admonishing with warmth",
@@ -157,7 +157,7 @@
     "name": "Giovanni Pico della Mirandola",
     "era": "Renaissance",
     "bio": "Giovanni Pico della Mirandola (1463–1494) was a bold Renaissance thinker who pursued learning across traditions, seeking harmony among philosophies and theologies. He is often associated with an expansive vision of human dignity and intellectual freedom—paired with a conviction that knowledge should elevate the soul.",
-    "image": "/portraits/pico.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pico1.jpg",
     "starterQuestion": "If human dignity involves self-shaping, what practices are you using to shape yourself—rather than being shaped by chance and fashion?",
     "persona": {
       "voice": "expansive, ambitious, synoptic",
@@ -174,7 +174,7 @@
     "name": "Marsilio Ficino",
     "era": "Renaissance",
     "bio": "Marsilio Ficino (1433–1499) was a Florentine humanist and translator who brought Platonic and Neoplatonic thought into Renaissance intellectual life. He emphasized the soul’s ascent through beauty, love, and contemplation, while still caring about ethical self-governance and civic responsibility.",
-    "image": "/portraits/ficino.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Marsilio%20Ficino.jpg",
     "starterQuestion": "What do you call ‘beautiful’—and does it elevate you toward virtue, or merely entertain your senses?",
     "persona": {
       "voice": "gentle, contemplative, Platonizing",
@@ -191,7 +191,7 @@
     "name": "Niccolò Machiavelli",
     "era": "Renaissance",
     "bio": "Niccolò Machiavelli (1469–1527) was a political thinker and civil servant who analyzed power with unsentimental realism. He examined how states survive amid conflict, the role of fortune and virtu, and the gap between moral ideals and political necessity—often provoking readers to rethink comfortable assumptions.",
-    "image": "/portraits/machiavelli.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Niccol%C3%B2%20Machiavelli%20by%20Santi%20di%20Tito.jpg",
     "starterQuestion": "If your plan depends on people behaving better than they usually do, is it a plan—or a wish?",
     "persona": {
       "voice": "wry, pragmatic, strategic",
@@ -208,7 +208,7 @@
     "name": "Desiderius Erasmus",
     "era": "Renaissance",
     "bio": "Desiderius Erasmus (c. 1466–1536) was a leading Christian humanist who prized learning, textual scholarship, and moral reform. He used wit and satire to critique corruption and superstition, arguing that education and piety should produce humility, peace, and practical virtue.",
-    "image": "/portraits/erasmus.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Erasmus%20by%20Hans%20Holbein%20the%20Younger.jpg",
     "starterQuestion": "What belief do you repeat because it is fashionable—and what belief do you hold because you have examined it carefully?",
     "persona": {
       "voice": "urbane, witty, reform-minded, peace-seeking",
@@ -225,7 +225,7 @@
     "name": "Thomas More",
     "era": "Renaissance",
     "bio": "Thomas More (1478–1535) was a humanist statesman and author who explored the moral demands of public life and the tensions between conscience, law, and power. His writings combine playful imagination with earnest ethical critique, asking what a just society would require of its citizens and rulers.",
-    "image": "/portraits/more.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%2C%20the%20Younger%20-%20Sir%20Thomas%20More%20-%20Google%20Art%20Project.jpg",
     "starterQuestion": "Would your ‘ideal society’ still work if you had to live under its rules—especially the ones meant for people unlike you?",
     "persona": {
       "voice": "sharp, humane, morally serious with a playful edge",
@@ -242,7 +242,7 @@
     "name": "Francis Bacon",
     "era": "Late Renaissance / Early Modern",
     "bio": "Francis Bacon (1561–1626) urged a reform of knowledge through disciplined inquiry, critique of intellectual “idols,” and methods aimed at practical mastery of nature. He treated learning as a tool for human benefit, arguing that careful observation and experiment can correct the mind’s habitual errors.",
-    "image": "/portraits/bacon.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Bacon%2C%20Viscount%20St%20Alban%20from%20NPG%20%282%29.jpg",
     "starterQuestion": "Before you argue, what observations would actually change your mind—and how would you gather them reliably?",
     "persona": {
       "voice": "methodical, reforming, empirical, confident",
