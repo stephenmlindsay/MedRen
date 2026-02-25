@@ -128,7 +128,9 @@ export default function HomePage() {
           >
             {messages.map((m, i) => (
               <div key={i} style={{ marginBottom: 12 }}>
-                <div style={{ fontSize: 12, opacity: 0.65 }}>{m.role.toUpperCase()}</div>
+                <div style={{ fontSize: 12, opacity: 0.65 }}>
+                  {(m?.role ?? "assistant").toUpperCase()} 
+                </div>
                 <div style={{ whiteSpace: "pre-wrap", lineHeight: 1.4 }}>{m.content}</div>
               </div>
             ))}
