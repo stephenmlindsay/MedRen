@@ -52,7 +52,7 @@ export default function HomePage() {
         {
           role: "assistant",
           content:
-            "Server error. If you haven’t set OPENAI_API_KEY in Vercel, do that first (Project → Settings → Environment Variables), then redeploy."
+            `Server error: ${e?.message ?? "unknown"}`
         }
       ]);
     } finally {
