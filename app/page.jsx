@@ -111,9 +111,15 @@ function openingMessage(person) {
             <p style={{ marginTop: 0, lineHeight: 1.45 }}>{chosen.bio}</p>
           </div>
 
-          <h3 style={{ marginTop: 18 }}>Question</h3>
+          <h3 style={{ marginTop: 18 }}>Opening excerpt</h3>
           <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 12, background: "#fafafa" }}>
-            <em>{chosen.starterQuestion}</em>
+            <div style={{ whiteSpace: "pre-wrap", lineHeight: 1.45 }}>
+              {chosen.openingExcerpt ? `“${chosen.openingExcerpt}”` : ""}
+            </div>
+            <div style={{ marginTop: 8, opacity: 0.75 }}>
+              {chosen.excerptSource ? `— ${chosen.excerptSource}` : ""}
+            </div>
+            <div style={{ marginTop: 10, fontStyle: "italic" }}>Any questions?</div>
           </div>
         </div>
 
