@@ -76,7 +76,7 @@ function openingMessage(person) {
 
   return (
     <main style={{ maxWidth: 980, margin: "0 auto", padding: 24, fontFamily: "system-ui, sans-serif" }}>
-      <h1 style={{ marginTop: 0 }}>Medieval Renaissance Chat</h1>
+      <h1 style={{ marginTop: 0 }}>Medieval to Renaissance Thinkers Chat</h1>
 
       <section style={{ display: "flex", gap: 24, alignItems: "flex-start", marginTop: 16, flexWrap: "wrap" }}>
         {/* LEFT: chooser + bio */}
