@@ -9,7 +9,12 @@ export default function HomePage() {
     () => intellectuals.find((x) => x.id === selectedId) ?? intellectuals[0],
     [selectedId]
   );
-
+function openingMessage(person) {
+  const quote = person?.openingExcerpt ? `“${person.openingExcerpt}”` : "";
+  const src = person?.excerptSource ? `— ${person.excerptSource}` : "";
+  const header = [quote, src].filter(Boolean).join("\n");
+  return (header ? header + "\n\n" : "") + "Any questions?";
+}
   const [messages, setMessages] = useState([
     { role: "assistant", content: intellectuals[0]?.starterQuestion ?? "Choose an intellectual to begin." }
   ]);
