@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import intellectuals from "../../../../data/intellectuals.json";
+import intellectuals from "../../../data/intellectuals.json";
 
 export async function POST(req) {
   try {
