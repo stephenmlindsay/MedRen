@@ -16,15 +16,15 @@ function openingMessage(person) {
   return (header ? header + "\n\n" : "") + "Any questions?";
 }
   const [messages, setMessages] = useState([
-    { role: "assistant", content: intellectuals[0]?.starterQuestion ?? "Choose an intellectual to begin." }
-  ]);
+  { role: "assistant", content: openingMessage(intellectuals[0]) }
+]);
   const [draft, setDraft] = useState("");
   const [busy, setBusy] = useState(false);
 
   function handleSelect(id) {
     setSelectedId(id);
     const next = intellectuals.find((x) => x.id === id);
-    setMessages([{ role: "assistant", content: next?.starterQuestion ?? "Let us begin." }]);
+    setMessages([{ role: "assistant", content: openingMessage(next) }]);
     setDraft("");
   }
 
